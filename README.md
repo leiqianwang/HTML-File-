@@ -10,8 +10,8 @@
 <!-- Navigation -->
 <nav class="w3-bar w3-blue">
   <a href="#home" class="w3-button w3-bar-item">Home</a>
-  <a href="#band" class="w3-button w3-bar-item">Band</a>
-  <a href="#tour" class="w3-button w3-bar-item">Tour</a>
+  <a href="#piano lessons" class="w3-button w3-bar-item">Piano Lessons</a>
+  <a href="#tutor" class="w3-button w3-bar-item">Tutor</a>
   <a href="#contact" class="w3-button w3-bar-item">Contact</a>
 </nav>
 
